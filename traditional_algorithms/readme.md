@@ -29,15 +29,12 @@ This directory contains a single notebook, `traditional_ml_algorithms.ipynb`, wh
 
 ### Opening the Notebook
 
-1. **Download the notebook** file:
-   - [Download `traditional_ml_algorithms.ipynb`](./traditional_ml_algorithms.ipynb)
-
-2. You can either:
+- You can either:
    - **Upload** the notebook to Google Colab and run it.
    - **Clone this repository** to your local machine and run the notebook using Jupyter:
      ```bash
-     git clone https://github.com/your-username/your-repo-name.git
-     cd your-repo-name
+     git clone [https://github.com/your-username/your-repo-name.git](https://github.com/SamarjitDebnath/Machine_Learning-Projects.git)
+     cd traditional_algorithms
      jupyter notebook traditional_ml_algorithms.ipynb
      ```
 
