@@ -34,7 +34,7 @@ This directory contains a single notebook, `traditional_ml_algorithms.ipynb`, wh
    - **Clone this repository** to your local machine and run the notebook using Jupyter:
      ```bash
      git clone [https://github.com/your-username/your-repo-name.git](https://github.com/SamarjitDebnath/Machine_Learning-Projects.git)
-     cd traditional_algorithms
+     cd machine_learning/traditional_algorithms
      jupyter notebook traditional_ml_algorithms.ipynb
      ```
 
