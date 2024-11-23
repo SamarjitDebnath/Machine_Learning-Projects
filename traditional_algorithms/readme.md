@@ -6,13 +6,13 @@ This directory contains a single notebook, `traditional_ml_algorithms.ipynb`, wh
 
 - **Learn by doing**: Implement algorithms from scratch to reinforce the understanding of their inner workings.
 - **Build intuition**: Explore how algorithms perform on different datasets.
-- **Improve coding skills**: Practice clean and efficient Python programming in a Jupyter notebook environment.
+- **Improve coding skills**: Practice clean and efficient Python programming in a Jupyter Notebook environment.
 
 ## Contents
 
 - **`traditional_ml_algorithms.ipynb`**: A Jupyter notebook hosted on Google Colab that includes step-by-step implementations of various machine learning algorithms, including:
   - **Linear Regression**
-  - **Logistic Regression** [WIP]
+  - **Logistic Regression**
   - **K-Nearest Neighbors (KNN)** [WIP]
   - **Decision Trees** [WIP]
   - **Naive Bayes** [WIP]
