@@ -13,9 +13,9 @@ This directory contains a single notebook, `traditional_ml_algorithms.ipynb`, wh
 - **`traditional_ml_algorithms.ipynb`**: A Jupyter notebook hosted on Google Colab that includes step-by-step implementations of various machine learning algorithms, including:
   - **Linear Regression**
   - **Logistic Regression**
-  - **K-Nearest Neighbors (KNN)** [WIP]
-  - **Decision Trees** [WIP]
+  - **Decision Trees**
   - **Naive Bayes** [WIP]
+  - **K-Nearest Neighbors (KNN)** [WIP]
   - **Support Vector Machines (SVM)** [WIP]
   - **K-Means Clustering** [WIP]
   - **AdaBoost** [WIP]
